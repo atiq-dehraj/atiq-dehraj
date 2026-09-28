@@ -1,24 +1,32 @@
-# Hello, I'm Atiq ur Rehman
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=atiq-dehraj&color=blue)
+# Hi there, I'm Atiq ur Rehman 👋
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Data+Science+%26+AI+Learner;Full-Stack+Developer;Linux+Enthusiast)](https://git.io/typing-svg)
 
-### About Me
-- Currently learning **Data Science and Data Analysis**
-- Actively solving problems and building with **Python Programming & Data Ecosystem**
-- Linux enthusiast
-- Reach me at [atiqd300@gmail.com](mailto:atiqd300@gmail.com)
-- LinkedIn: [Atiq ur Rehman](https://www.linkedin.com/in/atiqurrehman123/)
+<img src="https://komarev.com/ghpvc/?username=atiq-dehraj&color=blue&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
 
-### Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,nodejs,express,flask,django,flutter,mysql,linux,git,github,vscode,androidstudio" alt="Skills" />
-</p>
+## 👨‍💻 About Me
+- 🔭 Learning **Data Science and Data Analysis**
+- 🛠️ Actively solving problems and building with **Python Programming & Data Ecosystem**
+- 🐧 Linux enthusiast
+- 📫 Let's connect: [Email Me](mailto:atiqd300@gmail.com) | [LinkedIn](https://www.linkedin.com/in/atiqurrehman123/)
 
-*Languages & Technologies:*
+---
+
+## 🛠️ Skills
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,nodejs,express,flask,django,flutter,mysql,linux,fedora,git,github,vscode,androidstudio" alt="Skills" />
+</div>
+
+<br>
+
+**Languages & Technologies:**
 - **Programming Languages:** C, C++, Java, Python, JavaScript
 - **Web & Mobile:** React, Node.js, Express, Flask, Django, Flutter
 - **Databases:** MySQL
@@ -26,7 +34,7 @@
 
 ---
 
-### Connect with Me!
+## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/atiqurrehman123/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -38,7 +46,7 @@
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=atiq-dehraj&theme=radical&hide_border=true" alt="GitHub Streak" />
